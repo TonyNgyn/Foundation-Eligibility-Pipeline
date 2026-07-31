@@ -216,7 +216,6 @@ The data reflects real-world outreach patterns:
 | MySQL Workbench | Database design, relational modeling, query development |
 | Tableau Public | Interactive dashboard and data visualization |
 | Microsoft Excel | Intermediate data layer and chart prototyping |
-| Python | Mock dataset generation using `random`, `csv`, `datetime` |
 
 ---
 
